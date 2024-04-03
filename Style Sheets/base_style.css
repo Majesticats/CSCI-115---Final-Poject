@@ -261,25 +261,3 @@ em.blue{
 .image-column{
     margin-bottom: 30px;
 }
-
-table{
-    width: 1200px;
-    margin-left: 200px;
-}
-
-table,th,td{
-    border: 1px solid #fff;
-    border-collapse: collapse;
-}
-
-th,td{
-    width: 33.33%;
-}
-
-th{
-    font-size: 24pt;
-}
-
-td{
-    font-size: 16pt;
-}
